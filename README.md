@@ -1,4 +1,4 @@
-### Hello World 🌍
+### Hello World 🌍 I'm Chenda 👋
 
 ## Me 
 - 🧮 Ex-accountant, I am a junior fullstack developer on the following tech stack : JS / React / React Native / some knowledge in Ruby and Ruby on Rails
